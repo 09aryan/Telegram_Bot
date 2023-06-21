@@ -2,7 +2,7 @@
 This is a simple Telegram bot that responds to the following commands:
 
 /start - Greets the user and welcomes them to the bot.
-/help - Displays a help message with a list of all the commands that the bot can understand.
+/help - Displays a help message with a list of all the commands that the bot can understand.\n
 /content - Displays a message saying that the bot offers various contents.
 /Songs - Links to the first video in the Song playlist.
 /cartoons - Links to the first video in the Cartoon playlist.
